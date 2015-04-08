@@ -1,2 +1,2 @@
 # OS-X-Software-Guide
-/g/'s suggested of great OS X software
+/g/'s suggested list of great OS X software
