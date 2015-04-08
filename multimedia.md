@@ -7,7 +7,7 @@ mpv
 MplayerX (deprecated)  
 VLC  
 Perian (github.com/MaddTheSane/perian/releases)
->allows for playing webms in Safari    
+>allows for playing webms in new tabs in Safari    
 
 qlMoviePreview (github.com/Nyx0uf/qlMoviePreview)
 >quicklook plugin that generates thumbnails for mkv, webm, and more    
