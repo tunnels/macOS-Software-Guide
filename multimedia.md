@@ -12,7 +12,6 @@ Perian (github.com/MaddTheSane/perian/releases)
 qlMoviePreview (github.com/Nyx0uf/qlMoviePreview)
 >quicklook plugin that generates thumbnails for mkv, webm, and more    
 
-OpenEmu
 
 #### Music Players
 iTunes  
@@ -22,3 +21,7 @@ Enqueue
 Swinsian  
 mpd + ncmpcpp (optionally with mpc and mpdscribble)  
 cmus
+
+### Other
+OpenEmu
+>amazing video-game emulation program
