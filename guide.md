@@ -2,33 +2,44 @@
 
 ### Internet  
 
-
-####Torrent Clients  
+#### Torrent Clients  
 Transmission  
 qBittorrent  
 rTorrent  
 
-####Web Browsers
+#### Web Browsers
 Safari  
 Chrome/Chromium  
 Firefox  
 WebKit Nightly Builds  
 
-####Chat Clients
+#### Chat Clients
 Adium  
 Pidgin  
 Textual  
 Colloquy  
 
-####Email Clients
+#### Email Clients
 Mail  
 Airmail  
 
-####FTP Clients
+#### FTP Clients
 Transit  
 Cyberduck  
 Filezilla  
 
-####Network Managers
+#### Network Managers
 Little Snitch  
 Hands Off!   
+
+### Health
+
+####File/System Cleaners
+AppCleaner  
+OnyX  
+Disk Utilities  
+Carbon Copy Cloner  
+DaisyDisk  
+Disk Inventory X  
+DiskWarrior  
+OmniDiskSweeper  
