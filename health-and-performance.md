@@ -1,6 +1,6 @@
 #  /g/’s OS X Software Guide  
 
-### System Health
+### Health and Performance
 
 #### File/System Cleaners
 AppCleaner  
