@@ -5,6 +5,7 @@
 #### Productivity
 BetterTouchTool  
 BetterSnapTool  
+Spectacle  
 Alfred (w/ power-pack)  
 Quicksilver  
 iTerm2  
