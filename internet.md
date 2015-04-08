@@ -32,3 +32,6 @@ Filezilla
 Little Snitch  
 Hands Off!   
  
+#### Other
+cloudapp
+>Upload any file, link, screenshot or quick recording of your screen. Instantly receive a link to share.
