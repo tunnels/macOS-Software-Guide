@@ -1,13 +1,19 @@
 #  /g/’s OS X Software Guide  
 
-### Health
+### System Health
 
 #### File/System Cleaners
 AppCleaner  
 OnyX  
-Disk Utilities  
-Carbon Copy Cloner  
-DaisyDisk  
-Disk Inventory X  
+
+### Disk Utilities  
 DiskWarrior  
 OmniDiskSweeper 
+
+### Disk Cloners
+Carbon Copy Cloner 
+SuperDuper!
+
+### Disk Space Analyzers
+DaisyDisk  
+Disk Inventory X  
