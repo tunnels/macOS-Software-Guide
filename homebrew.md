@@ -21,3 +21,6 @@ brew install youtube-dl
 ###### GNU core utilities: the basic file, shell and text manipulation utilities of the GNU operating system  
 brew install coreutils
   
+
+###### CLI music playing:
+brew install [mpd](http://www.musicpd.org) ncmpcpp mpdscribble (ncmpcpp is for controlling mpd, mpdscribble for last.fm support)
