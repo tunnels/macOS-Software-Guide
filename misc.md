@@ -12,9 +12,7 @@ flashlight (spotlight extender)
 #### Cosmetic
 Bartender  
 Bowtie  
-Theme Engine
->https://github.com/alexzielenski/ThemeEngine
-
+[Theme Engine](https://github.com/alexzielenski/ThemeEngine)
 GeekTool  
 Ubersicht  
 Flavours  
