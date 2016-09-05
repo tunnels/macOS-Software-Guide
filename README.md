@@ -1,4 +1,4 @@
-# OS-X-Software-Guide
+# macOS Software Guide
 /g/'s suggested list of great OS X software
 
 ## Categories
