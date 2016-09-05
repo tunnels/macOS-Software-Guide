@@ -1,6 +1,6 @@
 # macOS Software Guide
 
-## Categories
+### Categories
 #### Internet  
   * Torrent Clients  
   * Web Browsers
