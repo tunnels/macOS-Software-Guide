@@ -1,25 +1,35 @@
-#  /g/’s OS X Software Guide  
+# Developer Tools
 
-### Developer Tools
-
-#### Text Editors and IDEs
-Xcode  
+### Text Editors
 SublimeText  
-Atom  
-Brackets  
-TextWrangler  
+Atom ***[FOSS]***   
+Brackets ***[FOSS]***   
+BBEdit  
 TextMate  
-0xED  
-Chocolat  
-macvim  
-Sip (advanced color picker)  
+TextWrangler  
+Chocolat ***[FOSS]***  
+vim and macvim  ***[FOSS]***  
 
-#### Image Editors and Graphic Design  
+### Hex Editors
+Hexfiend ***[FOSS]***  
+0xED
+
+### IDEs
+Xcode  (C*, Swift)  
+CLion  (C*)  
+IntelliJ IDEA (Java)   
+PHPStorm (PHP)
+
+### Image Editing and Graphic Design 
 Photoshop  
 Sketch 3  
 Pixelmator  
 Affinity Designer  
-GIMP  
+GIMP ***[FOSS]***  
+Sip (color picker)  
 Paintbrush  
+
+### Image Viewers
+Preview  
 Xee  
-simplecomic  
+simplecomic ***[FOSS]***
