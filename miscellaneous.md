@@ -1,15 +1,13 @@
-#  /g/’s OS X Software Guide  
+# Miscellaneous
 
-### Misc
-
-#### Utility
+### Utility
 Tinkertool  
-Parallels Desktop  
+Parallels Desktop (Virtualization)   
 Wineskin  
 f.lux  
 flashlight (spotlight extender)  
 
-#### Cosmetic
+### Cosmetic
 Bartender  
 Bowtie  
 [Theme Engine](https://github.com/alexzielenski/ThemeEngine)  
