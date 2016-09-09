@@ -1,34 +1,29 @@
-#  /g/’s OS X Software Guide  
+# System
 
-### System
-
-#### Productivity
+### Productivity
+iTerm2  
 BetterTouchTool  
 BetterSnapTool  
 Spectacle  
 Alfred (w/ power-pack)  
 Quicksilver  
-iTerm2  
-Dash  
-TotalFinder or Xtrafinder  
-HyperDock  
-Handbrake  
+Dash  (API documentation browser)  
 USB Overdrive  
 Flycut (clipboard manager)  
 Caffeine  
-Pacifist  
-Karabiner (formerly KeyRemap4Macbook)  
+Karabiner  
 
-#### Package Managers 
+### Package Managers 
 homebrew  
 macports  
 
-#### Office Suites
+### Office Suites
 iWork  
 MS Office  
 Libre Office  
 MacTeX  
 
-#### Archiving/Unarchiving
+### Archiving/Unarchiving
 The Unarchiver  
 Keka  
+Pacifist
