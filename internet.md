@@ -1,37 +1,37 @@
-#  /g/’s OS X Software Guide  
+# Internet  
 
-### Internet  
-
-#### Torrent Clients  
+### Torrent Clients  
 Transmission  
 qBittorrent  
-rTorrent  
+rTorrent ***[brew]***
 
-#### Web Browsers
+### Web Browsers
 Safari  
+Safari Technology Preview  
 Chrome/Chromium  
 Firefox  
-WebKit Nightly Builds  
 
-#### Chat Clients
+### Chat Clients
+Slack  
 Adium  
-Pidgin  
 Textual  
+Pidgin  
 Colloquy  
+weechat ***[brew]***  
+irssi ***[brew]***
 
-#### Email Clients
+### Email Clients
 Mail  
 Airmail  
 
-#### FTP Clients
+### FTP Clients
 Transit  
 Cyberduck  
 Filezilla  
 
-#### Network Managers
+### Network Managers
 Little Snitch  
 Hands Off!   
  
-#### Other
-cloudapp
->Upload any file, link, screenshot or quick recording of your screen. Instantly receive a link to share.
+### Other
+cloudapp *[upload a file, link, screen-recording etc. and quickly receive a shareable link]*
