@@ -17,4 +17,5 @@ mpd + ncmpcpp ***[brew]***
 cmus  ***[brew]***
 
 ### Other
+Handbrake (video transcoder based on ffmpeg)  
 OpenEmu (video-game emulation)
