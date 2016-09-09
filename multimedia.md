@@ -1,27 +1,20 @@
-#  /g/’s OS X Software Guide  
+# Multimedia
 
-### Multimedia
-
-#### Video Players
+### Video Players
 mpv  
 MplayerX (deprecated)  
 VLC  
-Perian (github.com/MaddTheSane/perian/releases)
->allows for playing webms in new tabs in Safari    
-
-qlMoviePreview (github.com/Nyx0uf/qlMoviePreview)
->quicklook plugin that generates thumbnails for mkv, webm, and more    
+[qlMoviePreview](github.com/Nyx0uf/qlMoviePreview) (quicklook plugin that generates thumbnails for mkv, webm, and other video containers/formats)    
 
 
-#### Music Players
+### Music Players
 iTunes  
 Vox  
 Sonora  
 Enqueue  
 Swinsian  
-mpd + ncmpcpp (optionally with mpc and mpdscribble)  
-cmus
+mpd + ncmpcpp ***[brew]***  
+cmus  ***[brew]***
 
 ### Other
-OpenEmu
->amazing video-game emulation program
+OpenEmu (video-game emulation)
