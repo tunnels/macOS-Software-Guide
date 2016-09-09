@@ -1,16 +1,12 @@
-#  /g/’s OS X Software Guide  
+# Health and Performance
 
-### Health and Performance
-
-#### File/System Cleaners
+### System Cleaners
 AppCleaner  
 OnyX  
 
-### Disk Utilities  
+### Disk Managers  
 DiskWarrior  
 OmniDiskSweeper 
-
-### Disk Cloners
 Carbon Copy Cloner 
 SuperDuper!
 
